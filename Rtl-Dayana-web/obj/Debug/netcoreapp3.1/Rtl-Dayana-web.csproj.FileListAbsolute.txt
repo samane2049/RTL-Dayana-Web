@@ -22,7 +22,6 @@ F:\Gholamzadeh-Sa\RTL-Dayana-web\Rtl-Dayana-web\obj\Debug\netcoreapp3.1\Rtl-Daya
 F:\Gholamzadeh-Sa\RTL-Dayana-web\Rtl-Dayana-web\obj\Debug\netcoreapp3.1\Rtl-Dayana-web.TagHelpers.output.cache
 F:\Gholamzadeh-Sa\RTL-Dayana-web\Rtl-Dayana-web\obj\Debug\netcoreapp3.1\Rtl-Dayana-web.RazorCoreGenerate.cache
 F:\Gholamzadeh-Sa\RTL-Dayana-web\Rtl-Dayana-web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-F:\Gholamzadeh-Sa\RTL-Dayana-web\Rtl-Dayana-web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
 F:\Gholamzadeh-Sa\RTL-Dayana-web\Rtl-Dayana-web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
 F:\Gholamzadeh-Sa\RTL-Dayana-web\Rtl-Dayana-web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 F:\Gholamzadeh-Sa\RTL-Dayana-web\Rtl-Dayana-web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
