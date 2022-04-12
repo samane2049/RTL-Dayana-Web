@@ -110,3 +110,5 @@ F:\Gholamzadeh-Sa\RTL-Dayana-web\Rtl-Dayana-web\bin\Debug\netcoreapp3.1\zh-Hant\
 F:\Gholamzadeh-Sa\RTL-Dayana-web\Rtl-Dayana-web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
 F:\Gholamzadeh-Sa\RTL-Dayana-web\Rtl-Dayana-web\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
 F:\Gholamzadeh-Sa\RTL-Dayana-web\Rtl-Dayana-web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Blog.cshtml.g.cs
+F:\Gholamzadeh-Sa\RTL-Dayana-web\Rtl-Dayana-web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Footer.cshtml.g.cs
+F:\Gholamzadeh-Sa\RTL-Dayana-web\Rtl-Dayana-web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Header.cshtml.g.cs
