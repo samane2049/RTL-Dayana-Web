@@ -80,9 +80,9 @@
                     <div class="menu-desktop">
                         <ul class="main-menu">
                             <li class="active-menu">
-                                <a href="index.html">Home</a>
+                                <a href="@Url.Action("Index","Home")">Home</a>
                                 <ul class="sub-menu">
-                                    <li><a href="index.html">Homepage 1</a></li>
+                                    <li><a href="@Url.Action("Index","Home")">Homepage 1</a></li>
                                     <li><a href="home-02.html">Homepage 2</a></li>
                                     <li><a href="home-03.html">Homepage 3</a></li>
                                 </ul>
@@ -105,7 +105,7 @@
                             </li>
 
                             <li>
-                                <a href="contact.html">Contact</a>
+                                <a href="@Url.Action("Contact","Home")">Contact</a>
                             </li>
                         </ul>
                     </div>
@@ -725,21 +725,6 @@
     </script>
     <!--===============================================================================================-->
     <script src="~/assets/vendor/perfect-scrollbar/perfect-scrollbar.min.js"></script>
-    <script>
-        $('.js-pscroll').each(function () {
-            $(this).css('position', 'relative');
-            $(this).css('overflow', 'hidden');
-            var ps = new PerfectScrollbar(this, {
-                wheelSpeed: 1,
-                scrollingThreshold: 1000,
-                wheelPropagation: false,
-            });
-
-            $(window).on('resize', function () {
-                ps.update();
-            })
-        });
-    </script>
     <!--===============================================================================================-->
     <script src="~/assets/js/main.js"></script>
 
